@@ -1,3 +1,4 @@
+import About from "./components/About"
 import City from "./components/City"
 import Hero from "./components/Hero"
 
@@ -7,6 +8,8 @@ const App = () => {
     <div>
       <Hero/>
       <City/>
+      <About/>
+
     </div>
   )
 }
