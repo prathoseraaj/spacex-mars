@@ -1,4 +1,5 @@
 import About from "./components/About"
+import Building from "./components/Building"
 import City from "./components/City"
 import Hero from "./components/Hero"
 import Human from "./components/Human"
@@ -19,6 +20,7 @@ const App = () => {
       <Landing/>
       <Mars2026/>
       <Human/>
+      <Building/>
 
     </div>
   )
