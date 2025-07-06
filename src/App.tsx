@@ -1,6 +1,7 @@
 import About from "./components/About"
 import City from "./components/City"
 import Hero from "./components/Hero"
+import Human from "./components/Human"
 import Landing from "./components/Landing"
 import Mars2026 from "./components/Mars2026"
 import Orbit from "./components/Orbit"
@@ -17,6 +18,7 @@ const App = () => {
       <Orbit/>
       <Landing/>
       <Mars2026/>
+      <Human/>
 
     </div>
   )
