@@ -1,6 +1,7 @@
 import About from "./components/About"
 import Building from "./components/Building"
 import City from "./components/City"
+import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Human from "./components/Human"
 import Landing from "./components/Landing"
@@ -21,6 +22,7 @@ const App = () => {
       <Mars2026/>
       <Human/>
       <Building/>
+      <Footer/>
 
     </div>
   )
